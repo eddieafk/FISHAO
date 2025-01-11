@@ -1,0 +1,137 @@
+{
+  "data": [
+    {
+      "type": "icons",
+      "id": "icons_-1",
+      "requirement": "{\"type\":\"level\",\"value\":25}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "suit",
+      "id": "suit_2",
+      "requirement": "{\"type\":\"level\",\"value\":5}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_3",
+      "requirement": "{\"type\":\"level\",\"value\":100}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "suit",
+      "id": "suit_3",
+      "requirement": "{\"type\":\"level\",\"value\":17}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_4",
+      "requirement": "{\"type\":\"catchFish\",\"fishId\":96}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "suit",
+      "id": "suit_4",
+      "requirement": "{\"type\":\"level\",\"value\":28}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "suit",
+      "id": "suit_5",
+      "requirement": "{\"type\":\"level\",\"value\":40}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_6",
+      "requirement": "{\"type\":\"collectAllBobsFishcoins\"}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "suit",
+      "id": "suit_6",
+      "requirement": "{\"type\":\"crew\"}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_7",
+      "requirement": "{\"type\":\"winTournament\",\"value\":3,\"tournamentId\":203}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_9",
+      "requirement": "{\"type\":\"catchBigger\",\"value\":300}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_11",
+      "requirement": "{\"type\":\"level\",\"value\":30}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_12",
+      "requirement": "{\"type\":\"buyRes\",\"resType\":2,\"resId\":-1,\"amountTimes\":10}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_13",
+      "requirement": "{\"type\":\"catchSmaller\",\"value\":10}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_14",
+      "requirement": "{\"type\":\"month\",\"value\":12}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_15",
+      "requirement": "{\"type\":\"catchFish\",\"fishId\":14}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_16",
+      "requirement": "{\"type\":\"catchBigger\",\"value\":200}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_17",
+      "requirement": "{\"type\":\"level\",\"value\":14}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    },
+    {
+      "type": "hat",
+      "id": "hat_18",
+      "requirement": "{\"type\":\"completeTrades\",\"value\":10}",
+      "price_fishcoins": "-1",
+      "price_fishbucks": "-1"
+    }
+  ]
+}

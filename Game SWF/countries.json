@@ -1,0 +1,1596 @@
+{
+  "data": [
+    {
+      "id": "ABW",
+      "iso2": "AW",
+      "name": "Aruba",
+      "language": "nl",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "AFG",
+      "iso2": "AF",
+      "name": "Afghanistan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "AGO",
+      "iso2": "AO",
+      "name": "Angola",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "AIA",
+      "iso2": "AI",
+      "name": "Anguilla",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ALA",
+      "iso2": "AX",
+      "name": "Aland Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ALB",
+      "iso2": "AL",
+      "name": "Albania",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "AND",
+      "iso2": "AD",
+      "name": "Andorra",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ARE",
+      "iso2": "AE",
+      "name": "United Arab Emirates",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ARG",
+      "iso2": "AR",
+      "name": "Argentina",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ARM",
+      "iso2": "AM",
+      "name": "Armenia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ASM",
+      "iso2": "AS",
+      "name": "American Samoa",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ATA",
+      "iso2": "AQ",
+      "name": "Antarctica",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ATF",
+      "iso2": "TF",
+      "name": "French Southern Territories",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ATG",
+      "iso2": "AG",
+      "name": "Antigua and Barbuda",
+      "language": "us",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "AUS",
+      "iso2": "AU",
+      "name": "Australia",
+      "language": "en",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "AUT",
+      "iso2": "AT",
+      "name": "Austria",
+      "language": "de",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,directEbanking,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "AZE",
+      "iso2": "AZ",
+      "name": "Azerbaijan",
+      "language": "tr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BDI",
+      "iso2": "BI",
+      "name": "Burundi",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BEL",
+      "iso2": "BE",
+      "name": "Belgium",
+      "language": "nl",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,directEbanking,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BEN",
+      "iso2": "BJ",
+      "name": "Benin",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BES",
+      "iso2": "BQ",
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BFA",
+      "iso2": "BF",
+      "name": "Burkina Faso",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BGD",
+      "iso2": "BD",
+      "name": "Bangladesh",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BGR",
+      "iso2": "BG",
+      "name": "Bulgaria",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BHR",
+      "iso2": "BH",
+      "name": "Bahrain",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BHS",
+      "iso2": "BS",
+      "name": "Bahamas",
+      "language": "us",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BIH",
+      "iso2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BLM",
+      "iso2": "BL",
+      "name": "Saint Barthelemy",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BLR",
+      "iso2": "BY",
+      "name": "Belarus",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BLZ",
+      "iso2": "BZ",
+      "name": "Belize",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BMU",
+      "iso2": "BM",
+      "name": "Bermuda",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BOL",
+      "iso2": "BO",
+      "name": "Bolivia, plurinational state of",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BRA",
+      "iso2": "BR",
+      "name": "Brazil",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BRB",
+      "iso2": "BB",
+      "name": "Barbados",
+      "language": "us",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BRN",
+      "iso2": "BN",
+      "name": "Bruinei Darussalam",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BTN",
+      "iso2": "BT",
+      "name": "Bhutan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BVT",
+      "iso2": "BV",
+      "name": "Bouvet Island",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "BWA",
+      "iso2": "BW",
+      "name": "Botswana",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CAF",
+      "iso2": "CF",
+      "name": "Central African Republic",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CAN",
+      "iso2": "CA",
+      "name": "Canada",
+      "language": "us",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CCK",
+      "iso2": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CHE",
+      "iso2": "CH",
+      "name": "Switzerland",
+      "language": "de",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,directEbanking,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CHL",
+      "iso2": "CL",
+      "name": "Chile",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CHN",
+      "iso2": "CN",
+      "name": "China",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CIV",
+      "iso2": "CI",
+      "name": "Cote d'Ivoire",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CMR",
+      "iso2": "CM",
+      "name": "Cameroon",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "COD",
+      "iso2": "CD",
+      "name": "Congo, Democratic Rebublic",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "COG",
+      "iso2": "CG",
+      "name": "Congo",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "COK",
+      "iso2": "CK",
+      "name": "Cook Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "COL",
+      "iso2": "CO",
+      "name": "Colombia",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "COM",
+      "iso2": "KM",
+      "name": "Comoros",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CPV",
+      "iso2": "CV",
+      "name": "Cape Verde",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CRI",
+      "iso2": "CR",
+      "name": "Costa Rica",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CUB",
+      "iso2": "CU",
+      "name": "Cuba",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CUW",
+      "iso2": "CW",
+      "name": "Curacao",
+      "language": "nl",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CXR",
+      "iso2": "CX",
+      "name": "Christmas Island",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CYM",
+      "iso2": "KY",
+      "name": "Cayman Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CYP",
+      "iso2": "CY",
+      "name": "Cyprus",
+      "language": "tr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "CZE",
+      "iso2": "CZ",
+      "name": "Czech Republic",
+      "language": "cz",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "DEU",
+      "iso2": "DE",
+      "name": "Germany",
+      "language": "de",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,elv,giropay,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "DJI",
+      "iso2": "DJ",
+      "name": "Djibouti",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "DMA",
+      "iso2": "DM",
+      "name": "Dominica",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "DNK",
+      "iso2": "DK",
+      "name": "Denmark",
+      "language": "dk",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "DOM",
+      "iso2": "DO",
+      "name": "Dominican Republic",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "DZA",
+      "iso2": "DZ",
+      "name": "Algeria",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ECU",
+      "iso2": "EC",
+      "name": "Ecuador",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "EGY",
+      "iso2": "EG",
+      "name": "Egypt",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ERI",
+      "iso2": "ER",
+      "name": "Eritrea",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ESH",
+      "iso2": "EH",
+      "name": "Western Sahara",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ESP",
+      "iso2": "ES",
+      "name": "Spain",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "EST",
+      "iso2": "EE",
+      "name": "Estonia",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ETH",
+      "iso2": "ET",
+      "name": "Ethiopia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "FIN",
+      "iso2": "FI",
+      "name": "Finland",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,ebanking_FI,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "FJI",
+      "iso2": "FJ",
+      "name": "Fiji",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "FLK",
+      "iso2": "FK",
+      "name": "Falkland Islands (Malvinas)",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "FRA",
+      "iso2": "FR",
+      "name": "France",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "FRO",
+      "iso2": "FO",
+      "name": "Faroe Islands",
+      "language": "dk",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "FSM",
+      "iso2": "FM",
+      "name": "Micronesia, Federated States",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GAB",
+      "iso2": "GA",
+      "name": "Gabon",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GBR",
+      "iso2": "GB",
+      "name": "United Kingdom",
+      "language": "en",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms,maestrouk,solo"
+    },
+    {
+      "id": "GEO",
+      "iso2": "GE",
+      "name": "Georgia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GGY",
+      "iso2": "GG",
+      "name": "Guernsey",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GHA",
+      "iso2": "GH",
+      "name": "Ghana",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GIB",
+      "iso2": "GI",
+      "name": "Gibraltar",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GIN",
+      "iso2": "GN",
+      "name": "Guinea",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GLP",
+      "iso2": "GP",
+      "name": "Guadeloupe",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GMB",
+      "iso2": "GM",
+      "name": "Gambia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GNB",
+      "iso2": "GW",
+      "name": "Guinea-Bissau",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GNQ",
+      "iso2": "GQ",
+      "name": "Equatorial Guinea",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GRC",
+      "iso2": "GR",
+      "name": "Greece",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GRD",
+      "iso2": "GD",
+      "name": "Grenada",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GRL",
+      "iso2": "GL",
+      "name": "Greenland",
+      "language": "dk",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GTM",
+      "iso2": "GT",
+      "name": "Guatemala",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GUF",
+      "iso2": "GF",
+      "name": "French Guiana",
+      "language": "fr"
+    },
+    {
+      "id": "GUM",
+      "iso2": "GU",
+      "name": "Guam",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "GUY",
+      "iso2": "GY",
+      "name": "Guyana",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "HKG",
+      "iso2": "HK",
+      "name": "Hong Kong",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "HMD",
+      "iso2": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "HND",
+      "iso2": "HN",
+      "name": "Honduras",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "HRV",
+      "iso2": "HR",
+      "name": "Croatia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "HTI",
+      "iso2": "HT",
+      "name": "Haiti",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "HUN",
+      "iso2": "HU",
+      "name": "Hungary",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "IDN",
+      "iso2": "ID",
+      "name": "Indonesia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "IMN",
+      "iso2": "IM",
+      "name": "Isle of Man",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "IND",
+      "iso2": "IN",
+      "name": "India",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "IOT",
+      "iso2": "IO",
+      "name": "British Indian Ocean Territory",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "IRL",
+      "iso2": "IE",
+      "name": "Ireland",
+      "language": "en",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms,laser"
+    },
+    {
+      "id": "IRN",
+      "iso2": "IR",
+      "name": "Iran, Islamic Republic",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "IRQ",
+      "iso2": "IQ",
+      "name": "Iraq",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ISL",
+      "iso2": "IS",
+      "name": "Iceland",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ISR",
+      "iso2": "IL",
+      "name": "Israel",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ITA",
+      "iso2": "IT",
+      "name": "Italy",
+      "language": "it",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "JAM",
+      "iso2": "JM",
+      "name": "Jamaica",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "JEY",
+      "iso2": "JE",
+      "name": "Jersey",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "JOR",
+      "iso2": "JO",
+      "name": "Jordan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "JPN",
+      "iso2": "JP",
+      "name": "Japan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KAZ",
+      "iso2": "KZ",
+      "name": "Kazakhstan",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KEN",
+      "iso2": "KE",
+      "name": "Kenya",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KGZ",
+      "iso2": "KG",
+      "name": "Kyrgystan",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KHM",
+      "iso2": "KH",
+      "name": "Cambodia",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KIR",
+      "iso2": "KI",
+      "name": "Kiribati",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KNA",
+      "iso2": "KN",
+      "name": "Saint Kitts and Nevis",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KOR",
+      "iso2": "KR",
+      "name": "Korea, Republic",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "KWT",
+      "iso2": "KW",
+      "name": "Kuwait",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LAO",
+      "iso2": "LA",
+      "name": "Lao Peoples's Democratic Republic",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LBN",
+      "iso2": "LB",
+      "name": "Lebanon",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LBR",
+      "iso2": "LR",
+      "name": "Liberia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LBY",
+      "iso2": "LY",
+      "name": "Libyan Arab Jamahiriya",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LCA",
+      "iso2": "LC",
+      "name": "Saint Lucia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LIE",
+      "iso2": "LI",
+      "name": "Liechtenstein",
+      "language": "de",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LKA",
+      "iso2": "LK",
+      "name": "Sri Lanka",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LSO",
+      "iso2": "LS",
+      "name": "Lesotho",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LTU",
+      "iso2": "LT",
+      "name": "Lithuania",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LUX",
+      "iso2": "LU",
+      "name": "Luxembourg",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "LVA",
+      "iso2": "LV",
+      "name": "Latvia",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MAC",
+      "iso2": "MO",
+      "name": "Macao",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MAF",
+      "iso2": "MF",
+      "name": "Saint Martin (French Part)",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MAR",
+      "iso2": "MA",
+      "name": "Morocco",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MCO",
+      "iso2": "MC",
+      "name": "Monaco",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MDA",
+      "iso2": "MD",
+      "name": "Moldova",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MDG",
+      "iso2": "MG",
+      "name": "Madagascar",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MDV",
+      "iso2": "MV",
+      "name": "Maldives",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MEX",
+      "iso2": "MX",
+      "name": "Mexico",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MHL",
+      "iso2": "MH",
+      "name": "Marshall Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MKD",
+      "iso2": "MK",
+      "name": "Macedonia, The Former Yugoslab Republic",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MLI",
+      "iso2": "ML",
+      "name": "Mali",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MLT",
+      "iso2": "MT",
+      "name": "Malta",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MMR",
+      "iso2": "MM",
+      "name": "Myanmar",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MNE",
+      "iso2": "ME",
+      "name": "Montenergo",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MNG",
+      "iso2": "MN",
+      "name": "Mongolia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MNP",
+      "iso2": "MP",
+      "name": "Nothern Mariana Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MOZ",
+      "iso2": "MZ",
+      "name": "Mozambique",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MRT",
+      "iso2": "MR",
+      "name": "Mauritania",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MSR",
+      "iso2": "MS",
+      "name": "Montserrat",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MTQ",
+      "iso2": "MQ",
+      "name": "Martinique",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MUS",
+      "iso2": "MU",
+      "name": "Mauritius",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MWI",
+      "iso2": "MW",
+      "name": "Malawi",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MYS",
+      "iso2": "MY",
+      "name": "Malasia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "MYT",
+      "iso2": "YT",
+      "name": "Mayotte",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NAM",
+      "iso2": "NA",
+      "name": "Namibia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NCL",
+      "iso2": "NC",
+      "name": "New Caledonia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NER",
+      "iso2": "NE",
+      "name": "Niger",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NFK",
+      "iso2": "NF",
+      "name": "Norfolk Island",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NGA",
+      "iso2": "NG",
+      "name": "Nigeria",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NIC",
+      "iso2": "NI",
+      "name": "Nicaragua",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NIU",
+      "iso2": "NU",
+      "name": "Niue",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NLD",
+      "iso2": "NL",
+      "name": "Netherlands",
+      "language": "nl",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,bankTransfer_NL,directdebit_NL,ivr,ivrLandline,ivrMobile,paysafecard,sms,ideal"
+    },
+    {
+      "id": "NOR",
+      "iso2": "NO",
+      "name": "Norway",
+      "language": "no",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NPL",
+      "iso2": "NP",
+      "name": "Nepal",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NRU",
+      "iso2": "NR",
+      "name": "Nauru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "NZL",
+      "iso2": "NZ",
+      "name": "New Zealand",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "OMN",
+      "iso2": "OM",
+      "name": "Oman",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PAK",
+      "iso2": "PK",
+      "name": "Pakistan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PAN",
+      "iso2": "PA",
+      "name": "Panama",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PCN",
+      "iso2": "PN",
+      "name": "Pitcairn",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PER",
+      "iso2": "PE",
+      "name": "Peru",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PHL",
+      "iso2": "PH",
+      "name": "Philippines",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PLW",
+      "iso2": "PW",
+      "name": "Palau",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PNG",
+      "iso2": "PG",
+      "name": "Papua New Guinea",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "POL",
+      "iso2": "PL",
+      "name": "Poland",
+      "language": "pl",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,dotpay,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PRI",
+      "iso2": "PR",
+      "name": "Puerto Rico",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PRK",
+      "iso2": "KP",
+      "name": "Korea, Democratic People's republic",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PRT",
+      "iso2": "PT",
+      "name": "Portugal",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PRY",
+      "iso2": "PY",
+      "name": "Paraguay",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PSE",
+      "iso2": "PS",
+      "name": "Palestinian Territory, Occupied",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "PYF",
+      "iso2": "PF",
+      "name": "French Polynesia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "QAT",
+      "iso2": "QA",
+      "name": "Qatar",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "REU",
+      "iso2": "RE",
+      "name": "Reunion",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ROU",
+      "iso2": "RO",
+      "name": "Romania",
+      "language": "ro",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "RUS",
+      "iso2": "RU",
+      "name": "Russion Federation",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms,qiwiwallet"
+    },
+    {
+      "id": "RWA",
+      "iso2": "RW",
+      "name": "Rwanda",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SAU",
+      "iso2": "SA",
+      "name": "Saudi Arabia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SDN",
+      "iso2": "SD",
+      "name": "Sudan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SEN",
+      "iso2": "SN",
+      "name": "Senegal",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SGP",
+      "iso2": "SG",
+      "name": "Singapore",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SGS",
+      "iso2": "GS",
+      "name": "South Georgia and the South Sandwich",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SHN",
+      "iso2": "SH",
+      "name": "Saint Helena, Ascension And Tristan Da Cunha",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SJM",
+      "iso2": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SLB",
+      "iso2": "SB",
+      "name": "Solomon Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SLE",
+      "iso2": "SL",
+      "name": "Sierra Leone",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SLV",
+      "iso2": "SV",
+      "name": "El Salvador",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SMR",
+      "iso2": "SM",
+      "name": "San Marino",
+      "language": "it",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SOM",
+      "iso2": "SO",
+      "name": "Somalia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SPM",
+      "iso2": "PM",
+      "name": "Saint Vincent and the Miquelon",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SRB",
+      "iso2": "RS",
+      "name": "Serbia",
+      "language": "rs",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SSD",
+      "iso2": "SS",
+      "name": "South Sudan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "STP",
+      "iso2": "ST",
+      "name": "Sao Tome and Principe",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SUR",
+      "iso2": "SR",
+      "name": "Suriname",
+      "language": "nl",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SVK",
+      "iso2": "SK",
+      "name": "Slovakia",
+      "language": "sk",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SVN",
+      "iso2": "SI",
+      "name": "Slovenia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SWE",
+      "iso2": "SE",
+      "name": "Sweden",
+      "language": "se",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,bankTransfer_IBAN,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SWZ",
+      "iso2": "SZ",
+      "name": "Swaziland",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SXM",
+      "iso2": "SX",
+      "name": "Sint Maarten",
+      "language": "nl",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SYC",
+      "iso2": "SC",
+      "name": "Seychelles",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "SYR",
+      "iso2": "SY",
+      "name": "Syrian Arab Republic",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TCA",
+      "iso2": "TC",
+      "name": "Turks and Caicos Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TCD",
+      "iso2": "TD",
+      "name": "Chad",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TGO",
+      "iso2": "TG",
+      "name": "Togo",
+      "language": "fr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "THA",
+      "iso2": "TH",
+      "name": "Thailand",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TJK",
+      "iso2": "TJ",
+      "name": "Tajikistan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TKL",
+      "iso2": "TK",
+      "name": "Tokelau",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TKM",
+      "iso2": "TM",
+      "name": "Turkmenistan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TLS",
+      "iso2": "TL",
+      "name": "Timor-Leste",
+      "language": "br",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TON",
+      "iso2": "TO",
+      "name": "Tonga",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TTO",
+      "iso2": "TT",
+      "name": "Trinidad and Tobago",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TUN",
+      "iso2": "TN",
+      "name": "Tunisia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TUR",
+      "iso2": "TR",
+      "name": "Turkey",
+      "language": "tr",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TUV",
+      "iso2": "TV",
+      "name": "Tuvalu",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TWN",
+      "iso2": "TW",
+      "name": "Taiwan, Province of China",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "TZA",
+      "iso2": "TZ",
+      "name": "Tanzania, United Republic",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "UGA",
+      "iso2": "UG",
+      "name": "Uganda",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "UKR",
+      "iso2": "UA",
+      "name": "Ukraine",
+      "language": "ru",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "UMI",
+      "iso2": "UM",
+      "name": "United States Minor Outlying Islands",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "UN1",
+      "iso2": "U1",
+      "name": "Unknown",
+      "language": "en"
+    },
+    {
+      "id": "URY",
+      "iso2": "UY",
+      "name": "Uruguay",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "USA",
+      "iso2": "US",
+      "name": "United States",
+      "language": "us",
+      "payment_system_ids": "paypal,zong,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "UZB",
+      "iso2": "UZ",
+      "name": "Uzbekistan",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "VAT",
+      "iso2": "VA",
+      "name": "Holy See (Vatican City State)",
+      "language": "it",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "VCT",
+      "iso2": "vc",
+      "name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "id": "VEN",
+      "iso2": "VE",
+      "name": "Venezuela",
+      "language": "es",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "VGB",
+      "iso2": "VG",
+      "name": "Virgin Islands, British",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "VIR",
+      "iso2": "VI",
+      "name": "Virgin Islands, U.S.",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "VNM",
+      "iso2": "VN",
+      "name": "Vietnam",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "VUT",
+      "iso2": "VU",
+      "name": "Vanuatu",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "WLF",
+      "iso2": "WF",
+      "name": "Wallis and Futuna",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "WSM",
+      "iso2": "WS",
+      "name": "Samoa",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "YEM",
+      "iso2": "YE",
+      "name": "Yemen",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ZAF",
+      "iso2": "ZA",
+      "name": "South Africa",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ZMB",
+      "iso2": "ZM",
+      "name": "Zambia",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    },
+    {
+      "id": "ZWE",
+      "iso2": "ZW",
+      "name": "Zimbabwe",
+      "payment_system_ids": "paypal,amex,maestro,mc,visa,hyvesafrekenen,ivr,ivrLandline,ivrMobile,paysafecard,sms"
+    }
+  ]
+}
