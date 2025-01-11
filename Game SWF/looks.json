@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "id": "164",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "8",
+      "price_fishbucks": "600",
+      "req": ""
+    },
+    {
+      "id": "165",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "5",
+      "price_fishbucks": "375",
+      "req": "{\"player_level_req\":8}"
+    },
+    {
+      "id": "166",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "12",
+      "price_fishbucks": "900",
+      "req": "{\"player_level_req\":3}"
+    },
+    {
+      "id": "167",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "25",
+      "price_fishbucks": "1875",
+      "req": "{\"player_level_req\":12}"
+    },
+    {
+      "id": "121",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "35",
+      "price_fishbucks": "2625",
+      "req": "{\"player_level_req\":27}"
+    },
+    {
+      "id": "122",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "11",
+      "price_fishbucks": "825",
+      "req": ""
+    },
+    {
+      "id": "123",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "12",
+      "price_fishbucks": "900",
+      "req": "{\"player_level_req\":19}"
+    },
+    {
+      "id": "124",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "50",
+      "price_fishbucks": "3750",
+      "req": "{\"player_level_req\":47}"
+    },
+    {
+      "id": "125",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "5",
+      "price_fishbucks": "375",
+      "req": "{\"player_level_req\":11}"
+    },
+    {
+      "id": "126",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "5",
+      "price_fishbucks": "375",
+      "req": "{\"player_level_req\":2}"
+    },
+    {
+      "id": "221",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "5",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":23}"
+    },
+    {
+      "id": "222",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "20",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":48}"
+    },
+    {
+      "id": "223",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "8",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":6}"
+    },
+    {
+      "id": "224",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "80",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":17}"
+    },
+    {
+      "id": "225",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "20",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":16}"
+    },
+    {
+      "id": "226",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "399",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":26}"
+    },
+    {
+      "id": "227",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "30",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":14}"
+    },
+    {
+      "id": "228",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "50",
+      "price_fishbucks": "-1",
+      "req": ""
+    },
+    {
+      "id": "229",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "79",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":53}"
+    },
+    {
+      "id": "230",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "100",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":21}"
+    },
+    {
+      "id": "231",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "10",
+      "price_fishbucks": "-1",
+      "req": ""
+    },
+    {
+      "id": "232",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "695",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":35}"
+    },
+    {
+      "id": "504",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "5",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":3}"
+    },
+    {
+      "id": "505",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "7",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":18}"
+    },
+    {
+      "id": "506",
+      "type_id": "7",
+      "param": "{\"speed_multiplier\":1.5}",
+      "price_fishcoins": "79",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":12}"
+    },
+    {
+      "id": "554",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "30",
+      "price_fishbucks": "-1",
+      "req": "{\"player_level_req\":5}"
+    },
+    {
+      "id": "555",
+      "type_id": "7",
+      "param": "",
+      "price_fishcoins": "7",
+      "price_fishbucks": "-1",
+      "req": ""
+    },
+    {
+      "id": "507",
+      "type_id": "7",
+      "param": "{\"speed_multiplier\":2}",
+      "price_fishcoins": "200",
+      "price_fishbucks": "-1",
+      "req": ""
+    }
+  ]
+}
